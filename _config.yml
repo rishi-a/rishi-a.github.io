@@ -27,6 +27,9 @@ author:
 description: >
   Rishiraj is a Ph.D. student at the Sustainability Lab, Computer Science Engineering, IIT Gandhinagar, Gujarat. He is a Fulbright Fellow to CMU and a PMRF. Prof. Nipun from IIT-GN advises him.
 
+domain: rishi-a.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://rishi-a.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl:       # place folder name if the site is served in a subfolder
 
 
 title: Rishiraj Adhikary
