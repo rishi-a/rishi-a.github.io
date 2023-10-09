@@ -17,9 +17,9 @@ layout: page
 	    to { background-position: -400px 0; }
 	}
 	#background{
-		background: gray url("/images/tiny-squares/tiny-square.jpg") repeat 0 0;
+		/*background: gray url("/images/tiny-squares/tiny-square.jpg") repeat 0 0;
 		-webkit-animation: slide 20s linear infinite;
-		-moz-animation: slide 20s linear infinite;
+		-moz-animation: slide 20s linear infinite;*/
 	}
 	p{text-align: justify;}
 	li{text-align: justify;}
@@ -314,7 +314,7 @@ algorithm and is reproducible
             <div class="publication-sources">
                 <p>
                     <a href="/downloads/publications/2020_Ubicomp_Breathe_Poster.pdf">PDF</a> | 
-					<a href="https://dl.acm.org/doi/10.1145/3410530.3414414">ACM Library</a>
+					<a href="https://dl.acm.org/doi/10.1145/3410530.3414414">ACM Library</a> | 
 					<a href="https://www.youtube.com/watch?v=eRHxXTMms3w">Video</a> |
                 </p>
         	</div>
@@ -353,5 +353,5 @@ algorithm and is reproducible
 
 
 <script>
-	document.getElementsByTagName("body")[0].setAttribute("id", "background");
+	//document.getElementsByTagName("body")[0].setAttribute("id", "background");
 </script>
