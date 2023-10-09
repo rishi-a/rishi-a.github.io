@@ -150,7 +150,7 @@ I'm looking to work in Human-Computer Interaction, Ubiquitous Computing, Sensor-
         </div>
         <div class="publication-details">
             <div class="publication-title">Towards Continuous Respiration Rate Detection While Walking</div>
-            <div class="publication-coauthors"><span class="underline">Rishiraj Adhikary</span>, Aryan Varshney Nipun Batra</div>
+            <div class="publication-coauthors"><span class="underline">Rishiraj Adhikary</span>, Aryan Varshney, Nipun Batra</div>
             <div class="publication-publisher">In UbiComp/ISWC 2022 (Adjunct)</div>
             <div class="publication-sources">
                 <p>
