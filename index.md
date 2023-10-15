@@ -46,7 +46,7 @@ layout: page
 
 	}
 
-	#about-me, #teaching, #updates, #past-roles, #publications{
+	#about-me, #teaching, #updates, #past-roles, #publications, #latest-updates{
 		border-bottom: 1px solid black;
 
 	}
@@ -97,6 +97,13 @@ layout: page
 		.underline{
 			text-decoration: underline;
 		}
+        
+        .update-text{
+            
+            color: red;
+            font-style: bold
+            
+        }
 </style>
 
 ##### **About Me**
@@ -106,14 +113,17 @@ layout: page
 -->I’m a 5th year Ph.D. candidate (PMRF) in the Computer Science department of [IIT Gandhinagar](https://iitgn.ac.in). Prof. [Nipun Batra](https://nipunbatra.github.io/) advises me. I was a Fulbright Visiting Researcher at the [SMASH Lab](https://smashlab.io/) of [Carnegie Mellon University](https://cmu.edu). My research interest is in Ubiquitous Computing, particularly health sensing. I did my schooling in Shillong, India and grew up there, although I was born in the Indian state of Assam.
 
 <p class="support-of">I appreciate the support of</p>
-<img align="left" src="/images/Fulbright_logo.png"><img align="left" src="/images/pmrf-logo.png"><br><br>
+<img align="left" src="/images/Fulbright_logo.png"><img align="left" src="/images/pmrf-logo.png"><br>
+
+##### **Latest Updates**
+<p class="update-text">Received UbiComp Gaetano Borriello Outstanding Student 2023 Award (Finalist)</p>
 
 <!--
 ##### **<span style="color: #f56607">Looking for research internship (May-July 2022)</span>**
 I'm looking to work in Human-Computer Interaction, Ubiquitous Computing, Sensor-enabled Embedded Systems that can impact healthcare delivery or pave the path towards making healthcare more accessible.-->
 
 
-<div style="margin-top: 50px"></div>
+
 
 ##### **Publications**
 <div class="publication-row">
