@@ -128,6 +128,26 @@ I'm looking to work in Human-Computer Interaction, Ubiquitous Computing, Sensor-
 ##### **Publications**
 <div class="publication-row">
         <div class="publication-image">
+            <img src="/images/publication-hero-images/jouleseye.png" alt="Publication Image">
+        </div>
+        <div class="publication-details">
+            <div class="publication-title">JoulesEye: Energy Expenditure Estimation and Respiration Sensing from Thermal Imagery While Exercising</div>
+            <div class="publication-coauthors"><span class="underline">Rishiraj Adhikary</span>, Maite Sadeh, Nipun Batra and Mayank Goel</div>
+            <div class="publication-publisher">In IMWUT/Ubicomp 2024 (To Appear)</div>
+            <div class="publication-sources">
+                <p>
+                    <a href="#">Coming Soon</a>
+                </p>
+        	</div>
+    	</div>
+</div>
+<div class="publication-abstract">
+	Smartphones and smartwatches have contributed significantly to fitness monitoring by providing real-time statistics, thanks to accurate tracking of physiological indices such as heart rate. However, the estimation of calories burned during exercise is inaccurate and cannot be used for medical diagnosis. In this work, we present JoulesEye, a smartphone thermal camera-based system that can accurately estimate calorie burn by monitoring respiration rate. We evaluated JoulesEye on 54 participants who performed high intensity cycling and running. The mean absolute percentage error (MAPE) of JoulesEye was 5.8%, which is significantly better than the MAPE of 37.6% observed with commercial smartwatch-based methods that only use heart rate. Finally, we show that an ultra-low-resolution thermal camera that is small enough to fit inside a watch or other wearables is sufficient for accurate calorie burn estimation. These results suggest that JoulesEye is a promising new method for accurate and reliable calorie burn estimation.
+</div>
+
+<div style="margin-top: 30px"></div>
+<div class="publication-row">
+        <div class="publication-image">
             <img src="/images/publication-hero-images/spiromask-hero.png" alt="Publication Image">
         </div>
         <div class="publication-details">
