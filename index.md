@@ -110,19 +110,18 @@ layout: page
 
 <img class="pad-2" align="right" width="110" height="110" src="/images/RISHIRAJ.jpg">
 <!--<img class="pad-1" align="right" width="200" height="170" src="/images/IMG-20190202-WA0001.jpg">
--->I’m a 5th year Ph.D. candidate (PMRF) in the Computer Science department of [IIT Gandhinagar](https://iitgn.ac.in). Prof. [Nipun Batra](https://nipunbatra.github.io/) advises me. I was a Fulbright Visiting Researcher at the [SMASH Lab](https://smashlab.io/) of [Carnegie Mellon University](https://cmu.edu). My research interest is in Ubiquitous Computing, particularly health sensing. I did my schooling in Shillong, India and grew up there, although I was born in the Indian state of Assam.
+-->Rishiraj is currently a 5th-year Ph.D. candidate in the Computer Science department at IIT Gandhinagar, specializing in Ubiquitous Computing, particularly health sensing. His research work has been featured in publications such as ACM IMWUT, ACM HEALTH, ACM CSCW, and Ubicomp/ISWC. He was a finalist for the UbiComp Gaetano Borriello Outstanding Student Award (2023). Rishiraj has had the privilege of being a Fulbright Visiting Researcher at Carnegie Mellon University's [SMASH Lab](https://smashlab.io/). Furthermore, his research journey is supported by the Prime Minister's Research Fellowship. [Nipun Batra](https://nipunbatra.github.io/) is Rishiraj's advisor.
 
-<p class="support-of">I appreciate the support of</p>
+<p class="support-of">Supported By</p>
 <img align="left" src="/images/Fulbright_logo.png"><img align="left" src="/images/pmrf-logo.png"><br>
 
 ##### **Latest Updates**
-<p class="update-text">Received UbiComp Gaetano Borriello Outstanding Student 2023 Award (Finalist)</p>
+<p class="update-text">-Participating in the inaugural ACM India <a href="https://event.india.acm.org/pic/home/">Pingala Interaction In Computing</a></p>
+<p class="update-text">-Won the best poster award in PhD Research Showcase at IIT Gandhinagar.</p>
 
 <!--
 ##### **<span style="color: #f56607">Looking for research internship (May-July 2022)</span>**
 I'm looking to work in Human-Computer Interaction, Ubiquitous Computing, Sensor-enabled Embedded Systems that can impact healthcare delivery or pave the path towards making healthcare more accessible.-->
-
-
 
 
 ##### **Publications**
@@ -136,7 +135,7 @@ I'm looking to work in Human-Computer Interaction, Ubiquitous Computing, Sensor-
             <div class="publication-publisher">In IMWUT/Ubicomp 2024 (To Appear)</div>
             <div class="publication-sources">
                 <p>
-                    <a href="#">Coming Soon</a>
+                    <a href="https://dl.acm.org/doi/abs/10.1145/3631422">ACM Library</a>
                 </p>
         	</div>
     	</div>

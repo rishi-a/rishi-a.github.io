@@ -24,8 +24,8 @@ author:
   name: Rishiraj Adhikary
   email: rishiraj.inbox@gmail.com
 
-description: >
-  Rishiraj is a Ph.D. student at the Sustainability Lab, Computer Science Engineering, IIT Gandhinagar, Gujarat. He is a Fulbright Fellow to CMU and a PMRF. Prof. Nipun from IIT-GN advises him.
+description: >- # this means to ignore newlines until "baseurl:"
+  Rishiraj is currently a 5th-year Ph.D. candidate in the Computer Science department at IIT Gandhinagar, specializing in Ubiquitous Computing, particularly health sensing. His research work has been featured in publications such as ACM IMWUT, ACM HEALTH, ACM CSCW, and Ubicomp/ISWC. He was a finalist for the UbiComp Gaetano Borriello Outstanding Student Award (2023). Rishiraj has had the privilege of being a Fulbright Visiting Researcher at Carnegie Mellon University's SMASH Lab. Furthermore, his research journey is supported by the Prime Minister's Research Fellowship. Nipun Batra is Rishiraj's advisor.
 
 domain: rishi-a.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://rishi-a.github.io  # the base hostname and protocol for your site, e.g. http://example.com
@@ -35,7 +35,7 @@ baseurl: /      # place folder name if the site is served in a subfolder
 title: Rishiraj Adhikary
 email: rishiraj.inbox@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Rishiraj is a Ph.D. student at the Sustainability Lab, Computer Science Engineering, IIT Gandhinagar, Gujarat. He is a Fulbright Fellow to CMU and a PMRF. Prof. Nipun from IIT-GN advises him.
+  Rishiraj is currently a 5th-year Ph.D. candidate in the Computer Science department at IIT Gandhinagar, specializing in Ubiquitous Computing, particularly health sensing. His research work has been featured in publications such as ACM IMWUT, ACM HEALTH, ACM CSCW, and Ubicomp/ISWC. He was a finalist for the UbiComp Gaetano Borriello Outstanding Student Award (2023). Rishiraj has had the privilege of being a Fulbright Visiting Researcher at Carnegie Mellon University's SMASH Lab. Furthermore, his research journey is supported by the Prime Minister's Research Fellowship. Nipun Batra is Rishiraj's advisor.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

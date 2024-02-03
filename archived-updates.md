@@ -4,11 +4,17 @@
 
 layout: page
 permalink: /archived/
-title: 
+title:
 
 ---
 
 ##### **Archived Updates**
+**2024**
+- Attending [Pingala Interaction In Computing](https://event.india.acm.org/pic/home/) in Infosys, Mysore Campus
+
+**2023**
+- Finalist (Top 3) for the UbiComp Gaetano Borriello Outstanding Student Award (2023)
+
 **2022**
 - **October 28** Our paper _**Spiromask**_ got accepted in ACM HEALTH.
     - [Paper Summary](https://twitter.com/nipun_batra/status/1586205718880739328)

@@ -19,6 +19,9 @@ title: Publications
 </style>
 
 #### **Publications**
+**2024**
+- <span style="color:#626964; text-decoration:underline;"><b>[JoulesEye: Energy Expenditure Estimation and Respiration Sensing from Thermal Imagery While Exercising][11]</b></span><br>Rishiraj Adhikary,  Maite Sadeh, Nipun Batra, Mayank Goe<br>In ACM ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+
 **2023**
 - <span style="color:#626964; text-decoration:underline;"><b>[SpiroMask: Measuring Lung Function Using Consumer-Grade Masks][10]</b></span><br>Rishiraj Adhikary, Dhruvi Lodhavia, Chris Francis, Rohit Patil, Tanmay Srivastava, Prerna Khanna, Nipun Batra, Joe Breda, Jacob Peplinski, Shwetak Patel<br>In ACM Transactions on Computing for Healthcare (HEALTH)
 
@@ -55,3 +58,4 @@ Visualization for AI Explainability (VISxAI'21)
 [8]:{{ site.url }}/downloads/publications/compass22-samachaar.pdf
 [9]:{{ site.url }}/downloads/publications/Ubicomp2022_CO2_Mask.pdf
 [10]:{{ site.url }}/downloads/publications/spiromask.pdf
+[11]:{{ site.url }}/downloads/publications/IMWUT_JoulesEye.pdf
