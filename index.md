@@ -116,8 +116,10 @@ layout: page
 <img align="left" src="/images/Fulbright_logo.png"><img align="left" src="/images/pmrf-logo.png"><br>
 
 ##### **Latest Updates**
-<p class="update-text">-Participating in the inaugural ACM India <a href="https://event.india.acm.org/pic/home/">Pingala Interaction In Computing</a></p>
+<p class="update-text">-Our research work on <a href="https://rishi-a.github.io/news-media/">JoulesEye</a> was covered by The Indian Express</p>
+<p class="update-text">-Participated in the inaugural ACM India <a href="https://event.india.acm.org/pic/home/">Pingala Interaction In Computing</a></p>
 <p class="update-text">-Won the best poster award in PhD Research Showcase at IIT Gandhinagar.</p>
+
 
 <!--
 ##### **<span style="color: #f56607">Looking for research internship (May-July 2022)</span>**

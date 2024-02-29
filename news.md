@@ -18,7 +18,11 @@ title: Media Coverage
   		border: 5px solid #555;
 	}
 </style>
-## **Research on SpiroMask**
+#### **Research on JoulesEye**
+Our research named, _**JoulesEye**_ was covered by [The Indian Express on 26th February 2024](https://indianexpress.com/article/cities/ahmedabad/research-scholar-at-iitgn-develops-device-to-overcome-fitness-monitoring-limitations-9180741/)
+<img  class="center" src="/images/media-news/jouleseye-news-1.jpg">
+
+#### **Research on SpiroMask**
 Our research named, _**SpiroMask**_ was covered comprehensively by [The Ahmedabad Mirror on 3rd November 2022](https://www.ahmedabadmirror.com/iit-gn-researchers-devise-mask-to-measure-lung-health/81846808.html)
 <img  class="center" src="/images/media-news/spiromask-news-1.jpeg">
 
