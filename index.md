@@ -116,7 +116,7 @@ layout: page
 <img align="left" src="/images/Fulbright_logo.png"><img align="left" src="/images/pmrf-logo.png"><br>
 
 ##### **Latest Updates**
-<p class="update-text">-Shortlisted (among 199 other young researchers) to attend the 11th <a href="https://www.heidelberg-laureate-forum.org/about-us.html">Heidelberg Laureate Forum</a></p>
+<p class="update-text">-Shortlisted to attend the 11th <a href="https://www.heidelberg-laureate-forum.org/about-us.html">Heidelberg Laureate Forum</a></p>
 <p class="update-text">-Poster on "Toothbrushing Activity Detection" got accepted in MobiSys 2024.</p>
 <p class="update-text">-Our research work on <a href="https://rishi-a.github.io/news-media/">JoulesEye</a> was covered by <a href="https://indianexpress.com/article/cities/ahmedabad/research-scholar-at-iitgn-develops-device-to-overcome-fitness-monitoring-limitations-9180741/">The Indian Express</a>, <a href="https://www.hackster.io/news/your-wearable-is-lying-to-you-28f2e5f56338">Hackster</a> and <a href="https://www.eurekalert.org/news-releases/1040652">Eurekalert</a></p>
 <p class="update-text">-Participated in the inaugural ACM India <a href="https://event.india.acm.org/pic/home/">Pingala Interaction In Computing</a></p>
