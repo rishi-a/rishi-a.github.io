@@ -11,6 +11,7 @@ title:
 ##### **Archived Updates**
 **2024**
 - Attending [Pingala Interaction In Computing](https://event.india.acm.org/pic/home/) in Infosys, Mysore Campus
+- Won the best poster award in PhD Research Showcase at IIT Gandhinagar.
 
 **2023**
 - Finalist (Top 3) for the UbiComp Gaetano Borriello Outstanding Student Award (2023)

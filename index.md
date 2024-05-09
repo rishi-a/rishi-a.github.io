@@ -112,16 +112,17 @@ layout: page
 <!--<img class="pad-1" align="right" width="200" height="170" src="/images/IMG-20190202-WA0001.jpg">
 -->Rishiraj is currently a 5th-year Ph.D. candidate in the Computer Science department at IIT Gandhinagar, specializing in Ubiquitous Computing, particularly health sensing. His research work has been featured in publications such as ACM IMWUT, ACM HEALTH, ACM CSCW, and Ubicomp/ISWC. He was a finalist for the UbiComp Gaetano Borriello Outstanding Student Award (2023). Rishiraj has had the privilege of being a Fulbright Visiting Researcher at Carnegie Mellon University's [SMASH Lab](https://smashlab.io/). Furthermore, his research journey is supported by the Prime Minister's Research Fellowship. [Nipun Batra](https://nipunbatra.github.io/) is Rishiraj's advisor.
 
-<p class="support-of">Supported By</p>
+##### **<span style="color: #f56607">Looking for industry positions</span>**
+I plan to submit my thesis in June'24. I'm looking to work in Health Sensing, Human-Computer Interaction, Ubiquitous Computing, Sensor-enabled Embedded Systems/IoT. Email: rishiraj[dot]a[AT]iitgn[dot]ac[dot]in
+
+
+<p class="support-of">Research Supported By</p>
 <img align="left" src="/images/Fulbright_logo.png"><img align="left" src="/images/pmrf-logo.png"><br>
 
 ##### **Latest Updates**
 <p class="update-text">-Shortlisted to attend the 11th <a href="https://www.heidelberg-laureate-forum.org/about-us.html">Heidelberg Laureate Forum</a></p>
 <p class="update-text">-Poster on "Toothbrushing Activity Detection" got accepted in MobiSys 2024.</p>
 <p class="update-text">-Our research work on <a href="https://rishi-a.github.io/news-media/">JoulesEye</a> was covered by <a href="https://indianexpress.com/article/cities/ahmedabad/research-scholar-at-iitgn-develops-device-to-overcome-fitness-monitoring-limitations-9180741/">The Indian Express</a>, <a href="https://www.hackster.io/news/your-wearable-is-lying-to-you-28f2e5f56338">Hackster</a> and <a href="https://www.eurekalert.org/news-releases/1040652">Eurekalert</a></p>
-<p class="update-text">-Participated in the inaugural ACM India <a href="https://event.india.acm.org/pic/home/">Pingala Interaction In Computing</a></p>
-<p class="update-text">-Won the best poster award in PhD Research Showcase at IIT Gandhinagar.</p>
-
 
 <!--
 ##### **<span style="color: #f56607">Looking for research internship (May-July 2022)</span>**
