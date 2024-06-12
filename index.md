@@ -112,17 +112,17 @@ layout: page
 <!--<img class="pad-1" align="right" width="200" height="170" src="/images/IMG-20190202-WA0001.jpg">
 -->Rishiraj is currently a 5th-year Ph.D. candidate in the Computer Science department at IIT Gandhinagar, specializing in Ubiquitous Computing, particularly health sensing. His research work has been featured in publications such as ACM IMWUT, ACM HEALTH, ACM CSCW, and Ubicomp/ISWC. He was a finalist for the UbiComp Gaetano Borriello Outstanding Student Award (2023). Rishiraj has had the privilege of being a Fulbright Visiting Researcher at Carnegie Mellon University's [SMASH Lab](https://smashlab.io/). Furthermore, his research journey is supported by the Prime Minister's Research Fellowship. [Nipun Batra](https://nipunbatra.github.io/) is Rishiraj's advisor.
 
-##### **<span style="color: #f56607">Looking for industry positions</span>**
-I plan to submit my thesis in June'24. I'm looking to work in Health Sensing, Human-Computer Interaction, Ubiquitous Computing, Sensor-enabled Embedded Systems/IoT. Email: rishiraj[dot]a[AT]iitgn[dot]ac[dot]in
-
-
 <p class="support-of">Research Supported By</p>
 <img align="left" src="/images/Fulbright_logo.png"><img align="left" src="/images/pmrf-logo.png"><br>
+<hr>
+
+
+##### **<span style="color: #f56607">I'm in the job market</span>**
+I'm looking to work for research position in Health Sensing, Human-Computer Interaction, Ubiquitous Computing, Sensor-enabled Embedded Systems/IoT. Email: rishiraj[dot]inbox@gmail.com
 
 ##### **Latest Updates**
 <p class="update-text">-Shortlisted to attend the 11th <a href="https://www.heidelberg-laureate-forum.org/about-us.html">Heidelberg Laureate Forum</a></p>
-<p class="update-text">-Poster on "Toothbrushing Activity Detection" got accepted in MobiSys 2024.</p>
-<p class="update-text">-Our research work on <a href="https://rishi-a.github.io/news-media/">JoulesEye</a> was covered by <a href="https://indianexpress.com/article/cities/ahmedabad/research-scholar-at-iitgn-develops-device-to-overcome-fitness-monitoring-limitations-9180741/">The Indian Express</a>, <a href="https://www.hackster.io/news/your-wearable-is-lying-to-you-28f2e5f56338">Hackster</a> and <a href="https://www.eurekalert.org/news-releases/1040652">Eurekalert</a></p>
+<p class="update-text">-Our research work on <a href="https://rishi-a.github.io/news-media/">JoulesEye</a> was covered by <a href="https://indianexpress.com/article/cities/ahmedabad/research-scholar-at-iitgn-develops-device-to-overcome-fitness-monitoring-limitations-9180741/">The Indian Express</a>, <a href="https://www.hackster.io/news/your-wearable-is-lying-to-you-28f2e5f56338">Hackster</a>, <a href="https://www.eurekalert.org/news-releases/1040652">Eurekalert</a>, <a href="https://www.cs.cmu.edu/news/2024/jouleseye">CMU News</a>, <a href="https://knowridge.com/2024/04/thermal-camera-could-boost-exercise-tracking-accuracy/">KnowRidge</a>, <a href="https://indiaeducationdiary.in/thermal-camera-detects-breathing-patterns-to-enhance-exercise-calorie-estimates/">IndiaEducation Diary</a>, <a href="https://www.zmescience.com/science/news-science/smartwatch-thermal-camera-calories/">ZME Science</a>, <a href="https://techxplore.com/news/2024-04-thermal-camera-calorie.html">TechXplore</a>, <a href="https://medium.com/@lalitagod100/iitgn-researcher-creates-gadget-to-get-around-restrictions-on-fitness-tracking-80869cea0264">Medium</a></p>
 
 <!--
 ##### **<span style="color: #f56607">Looking for research internship (May-July 2022)</span>**
