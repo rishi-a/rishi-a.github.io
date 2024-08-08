@@ -117,10 +117,8 @@ layout: page
 <hr>
 
 
-##### **<span style="color: #f56607">I'm in the job market</span>**
-I'm looking to work for research position in Health Sensing, Human-Computer Interaction, Ubiquitous Computing, Sensor-enabled Embedded Systems/IoT. Email: rishiraj[dot]inbox@gmail.com
-
 ##### **Latest Updates**
+<p class="update-text">-Joined Reliance Jio (Enercent) as a Research Data Scientist :)</p>
 <p class="update-text">-Shortlisted to attend the 11th <a href="https://www.heidelberg-laureate-forum.org/about-us.html">Heidelberg Laureate Forum</a></p>
 <p class="update-text">-Our research work on <a href="https://rishi-a.github.io/news-media/">JoulesEye</a> was covered by <a href="https://indianexpress.com/article/cities/ahmedabad/research-scholar-at-iitgn-develops-device-to-overcome-fitness-monitoring-limitations-9180741/">The Indian Express</a>, <a href="https://www.hackster.io/news/your-wearable-is-lying-to-you-28f2e5f56338">Hackster</a>, <a href="https://www.eurekalert.org/news-releases/1040652">Eurekalert</a>, <a href="https://www.cs.cmu.edu/news/2024/jouleseye">CMU News</a>, <a href="https://knowridge.com/2024/04/thermal-camera-could-boost-exercise-tracking-accuracy/">KnowRidge</a>, <a href="https://indiaeducationdiary.in/thermal-camera-detects-breathing-patterns-to-enhance-exercise-calorie-estimates/">IndiaEducation Diary</a>, <a href="https://www.zmescience.com/science/news-science/smartwatch-thermal-camera-calories/">ZME Science</a>, <a href="https://techxplore.com/news/2024-04-thermal-camera-calorie.html">TechXplore</a>, <a href="https://medium.com/@lalitagod100/iitgn-researcher-creates-gadget-to-get-around-restrictions-on-fitness-tracking-80869cea0264">Medium</a></p>
 
