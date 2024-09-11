@@ -110,16 +110,18 @@ layout: page
 
 <img class="pad-2" align="right" width="110" height="110" src="/images/RISHIRAJ.jpg">
 <!--<img class="pad-1" align="right" width="200" height="170" src="/images/IMG-20190202-WA0001.jpg">
--->Rishiraj is currently a 5th-year Ph.D. candidate in the Computer Science department at IIT Gandhinagar, specializing in Ubiquitous Computing, particularly health sensing. His research work has been featured in publications such as ACM IMWUT, ACM HEALTH, ACM CSCW, and Ubicomp/ISWC. He was a finalist for the UbiComp Gaetano Borriello Outstanding Student Award (2023). Rishiraj has had the privilege of being a Fulbright Visiting Researcher at Carnegie Mellon University's [SMASH Lab](https://smashlab.io/). Furthermore, his research journey is supported by the Prime Minister's Research Fellowship. [Nipun Batra](https://nipunbatra.github.io/) is Rishiraj's advisor.
+-->Rishiraj is currently a Ph.D. candidate in the Computer Science department at IIT Gandhinagar, specializing in Ubiquitous Computing, particularly health sensing. His research work has been featured in publications such as ACM IMWUT, ACM HEALTH, ACM CSCW, and Ubicomp/ISWC. He was a **finalist for the UbiComp Gaetano Borriello Outstanding Student Award (2023)**. Rishiraj has had the privilege of being a **Fulbright Visiting Researcher** at Carnegie Mellon University's [SMASH Lab](https://smashlab.io/). Furthermore, his research journey is supported by the **Prime Minister's Research Fellowship**. [Nipun Batra](https://nipunbatra.github.io/) is Rishiraj's advisor.
 
 <p class="support-of">Research Supported By</p>
 <img align="left" src="/images/Fulbright_logo.png"><img align="left" src="/images/pmrf-logo.png"><br>
-<hr>
+
 
 
 ##### **Latest Updates**
-<p class="update-text">-Joined Reliance Jio (Enercent) as a Research Data Scientist :)</p>
-<p class="update-text">-Shortlisted to attend the 11th <a href="https://www.heidelberg-laureate-forum.org/about-us.html">Heidelberg Laureate Forum</a></p>
+<p class="update-text">-Excited to be attending the 11th <a href="https://www.heidelberg-laureate-forum.org/about-us.html">Heidelberg Laureate Forum from Sept 21-28</a></p>
+
+<p class="update-text">-Joined Reliance Jio Platforms (Enercent Group) as a Research Data Scientist</p>
+
 <p class="update-text">-Our research work on <a href="https://rishi-a.github.io/news-media/">JoulesEye</a> was covered by <a href="https://indianexpress.com/article/cities/ahmedabad/research-scholar-at-iitgn-develops-device-to-overcome-fitness-monitoring-limitations-9180741/">The Indian Express</a>, <a href="https://www.hackster.io/news/your-wearable-is-lying-to-you-28f2e5f56338">Hackster</a>, <a href="https://www.eurekalert.org/news-releases/1040652">Eurekalert</a>, <a href="https://www.cs.cmu.edu/news/2024/jouleseye">CMU News</a>, <a href="https://knowridge.com/2024/04/thermal-camera-could-boost-exercise-tracking-accuracy/">KnowRidge</a>, <a href="https://indiaeducationdiary.in/thermal-camera-detects-breathing-patterns-to-enhance-exercise-calorie-estimates/">IndiaEducation Diary</a>, <a href="https://www.zmescience.com/science/news-science/smartwatch-thermal-camera-calories/">ZME Science</a>, <a href="https://techxplore.com/news/2024-04-thermal-camera-calorie.html">TechXplore</a>, <a href="https://medium.com/@lalitagod100/iitgn-researcher-creates-gadget-to-get-around-restrictions-on-fitness-tracking-80869cea0264">Medium</a></p>
 
 <!--
