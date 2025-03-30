@@ -46,7 +46,7 @@ layout: page
 
 	}
 
-	#about-me, #teaching, #updates, #past-roles, #publications, #latest-updates{
+	#about-me, #achievements, #teaching, #updates, #past-roles, #publications, #latest-updates{
 		border-bottom: 1px solid black;
 
 	}
@@ -109,13 +109,21 @@ layout: page
 ##### **About Me**
 
 <img class="pad-2" align="right" width="110" height="110" src="/images/RISHIRAJ.jpg">
-<!--<img class="pad-1" align="right" width="200" height="170" src="/images/IMG-20190202-WA0001.jpg">
--->Rishiraj is currently a **Research Data Scientist at Reliance**. He obtained his PhD in Computer Science from **IIT Gandhinagar** in January 2025, specializing in **Ubiquitous Computing**, particularly health sensing. His research has been featured in publications such as **ACM IMWUT, ACM HEALTH, ACM CSCW, and Ubicomp/ISWC**. He was a **finalist for the UbiComp Gaetano Borriello Outstanding Student Award (2023)**.  Rishiraj had the privilege of being a **Fulbright Visiting Researcher** at Carnegie Mellon University's [SMASH Lab](https://smashlab.io/) and received support for his research through the **Prime Minister's Research Fellowship**. His PhD advisor was [Nipun Batra](https://nipunbatra.github.io/).  
 
+Rishiraj is currently a **Research Data Scientist at Reliance**. He obtained his PhD in Computer Science from **IIT Gandhinagar** in January 2025, specializing in **Ubiquitous Computing**, particularly health sensing. His research has been featured in publications such as **ACM IMWUT, ACM HEALTH, ACM CSCW, and Ubicomp/ISWC**. Watch my PhD Thesis defense in [Youtube](https://www.youtube.com/watch?v=mY8-mksl73o)
 
+##### **Achievements**
+- **Finalist** for the *UbiComp Gaetano Borriello Outstanding Student Award (2023)*  
+- **Fulbright Visiting Researcher** at Carnegie Mellon University's [SMASH Lab](https://smashlab.io/)  
+- **Prime Minister's Research Fellowship** recipient 
+- **Presented a poster at the 11th Heidelberg Laureate Forum (HLF)** – [Watch on YouTube](https://youtu.be/1-aTRGvJzPQ?si=qBCEgWB5KEx4FYK9&t=3311) 
+- **Best poster award** in PhD Research Showcase at IIT Gandhinagar (2023).
+- **Google Summer of Code (GSoC) Participant** – Contributed to making **TensorFlow Lite** more accessible for users.
+
+<!--
 <p class="support-of">Research Supported By</p>
 <img align="left" src="/images/Fulbright_logo.png"><img align="left" src="/images/pmrf-logo.png"><br>
-
+-->
 
 
 
