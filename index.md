@@ -110,7 +110,7 @@ layout: page
 
 <img class="pad-2" align="right" width="110" height="110" src="/images/RISHIRAJ.jpg">
 
-Rishiraj is currently a **Research Data Scientist at Reliance**. He obtained his PhD in Computer Science from **IIT Gandhinagar** in January 2025, specializing in **Ubiquitous Computing**, particularly health sensing. His research has been featured in publications such as **ACM IMWUT, ACM HEALTH, ACM CSCW, and Ubicomp/ISWC**. Watch my PhD Thesis defense in [Youtube](https://www.youtube.com/watch?v=mY8-mksl73o)
+Rishiraj is currently a **Research Data Scientist at Reliance**. He obtained his PhD in Computer Science from **IIT Gandhinagar** in January 2025, specializing in **Ubiquitous Computing**, particularly health sensing. His research has been featured in publications such as **ACM IMWUT, ACM HEALTH, ACM CSCW, and Ubicomp/ISWC**. Watch his PhD Thesis defense in [Youtube](https://www.youtube.com/watch?v=mY8-mksl73o)
 
 ##### **Achievements**
 - **Finalist** for the *UbiComp Gaetano Borriello Outstanding Student Award (2023)*  
@@ -140,10 +140,13 @@ I'm looking to work in Human-Computer Interaction, Ubiquitous Computing, Sensor-
         <div class="publication-details">
             <div class="publication-title">JoulesEye: Energy Expenditure Estimation and Respiration Sensing from Thermal Imagery While Exercising</div>
             <div class="publication-coauthors"><span class="underline">Rishiraj Adhikary</span>, Maite Sadeh, Nipun Batra and Mayank Goel</div>
-            <div class="publication-publisher">In IMWUT/Ubicomp 2024 (To Appear)</div>
+            <div class="publication-publisher">ACM IMWUT 2024</div>
             <div class="publication-sources">
                 <p>
-                    <a href="https://dl.acm.org/doi/abs/10.1145/3631422">ACM Library</a>
+                    <a href="/downloads/publications/jouleseye.pdf">PDF</a> |
+                    <a href="https://dl.acm.org/doi/abs/10.1145/3631422">ACM DL</a> |
+                    <a href="https://www.youtube.com/watch?v=5J9KqrDnj20">Video</a>|
+                    <a href="https://www.youtube.com/watch?v=D8UEuQ8nSN4">Presentation</a>|
                 </p>
         	</div>
     	</div>
