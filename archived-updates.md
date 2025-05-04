@@ -72,3 +72,13 @@ div style="margin-top: 80px"></div>
 - <span class="cat">**July'16**: Contract Worker for front-end web technologies. *Multiple Organizations*</span>
 - <span class="cat">**August'18**: Research and Teaching Assistant, IIIT- Sricity</span>
 - <span class="cat">**March'19**: Junior Research Fellow, IIT-Gandhinagar</span>
+
+
+[1]:{{ site.url }}/downloads/free-space-management-1.pdf
+[2]:{{ site.url }}/downloads/machine-language-c.pdf
+[3]:{{ site.url }}/downloads/machine-language-c-2020.pdf
+[4]:{{ site.url }}/downloads/poster-aiims.pdf
+[5]:{{ site.url }}/downloads/publications/2020_Ubicomp_Breathe_Poster.pdf
+[6]:{{ site.url }}/downloads/publications/2020_Ubicomp_Breathe_Poster.pdf
+[7]:{{ site.url }}/downloads/publications/Ubicomp-DC2020_Revised.pdf
+[8]:{{ site.url }}/downloads/GSoC-Proposal.pdf
