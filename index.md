@@ -110,15 +110,17 @@ layout: page
 
 <img class="pad-2" align="right" width="110" height="110" src="/images/RISHIRAJ.jpg">
 
-Rishiraj is currently a **Research Data Scientist at Reliance**. He obtained his PhD in Computer Science from **IIT Gandhinagar** in January 2025, specializing in **Ubiquitous Computing**, particularly health sensing. His research has been featured in publications such as **ACM IMWUT, ACM HEALTH, ACM CSCW, and Ubicomp/ISWC**. Watch his PhD Thesis defense in [Youtube](https://www.youtube.com/watch?v=mY8-mksl73o)
+Rishiraj is currently a **Research Data Scientist at Reliance**. He obtained his PhD in Computer Science from **IIT Gandhinagar** in January 2025, specializing in **Ubiquitous Computing**, particularly health sensing. For his doctoral work, he was awarded the **Commendation for Outstanding Research** at IIT Gandhinagar's 14th Convocation. His research has been featured in publications such as **ACM IMWUT, ACM HEALTH, ACM CSCW, and Ubicomp/ISWC**. Watch his PhD thesis defense on [YouTube](https://www.youtube.com/watch?v=mY8-mksl73o).
+<br><br>
 
 ##### **Achievements**
-- **Finalist** for the *UbiComp Gaetano Borriello Outstanding Student Award (2023)*  
-- **Fulbright Visiting Researcher** at Carnegie Mellon University's [SMASH Lab](https://smashlab.io/)  
-- **Prime Minister's Research Fellowship** recipient 
-- **Presented a poster at the 11th Heidelberg Laureate Forum (HLF)** – [Watch on YouTube](https://youtu.be/1-aTRGvJzPQ?si=qBCEgWB5KEx4FYK9&t=3311) 
+- **Commendation for Outstanding Research in PhD** awarded during the 14th Convocation of IIT Gandhinagar.
+- **Finalist** for the *UbiComp Gaetano Borriello Outstanding Student Award (2023)*.  
+- **Fulbright Visiting Researcher** at Carnegie Mellon University's [SMASH Lab](https://smashlab.io/).
+- **Presented a poster at the 11th Heidelberg Laureate Forum (HLF)** – [Watch on YouTube](https://youtu.be/1-aTRGvJzPQ?si=qBCEgWB5KEx4FYK9&t=3311).
 - **Best poster award** in PhD Research Showcase at IIT Gandhinagar (2023).
 - **Google Summer of Code (GSoC) Participant** – Contributed to making **TensorFlow Lite** more accessible for users.
+- **Prime Minister's Research Fellowship** recipient.
 
 <!--
 <p class="support-of">Research Supported By</p>
