@@ -46,7 +46,7 @@ layout: page
 
 	}
 
-	#about-me, #achievements, #teaching, #updates, #past-roles, #publications, #latest-updates{
+	#about, #research-focus, #achievements, #teaching, #updates, #past-roles, #publications, #latest-updates{
 		border-bottom: 1px solid black;
 
 	}
@@ -106,11 +106,15 @@ layout: page
         }
 </style>
 
-##### **About Me**
+##### **About**
 
 <img class="pad-2" align="right" width="110" height="110" src="/images/RISHIRAJ.jpg">
 
 Rishiraj is currently a **Research Data Scientist at Reliance**. He obtained his PhD in Computer Science from **IIT Gandhinagar** in January 2025, specializing in **Ubiquitous Computing**, particularly health sensing. For his doctoral work, he was awarded the **Commendation for Outstanding Research** at IIT Gandhinagar's 14th Convocation. His research has been featured in publications such as **ACM IMWUT, ACM HEALTH, ACM CSCW, and Ubicomp/ISWC**. Watch his PhD thesis defense on [YouTube](https://www.youtube.com/watch?v=mY8-mksl73o).
+<br><br>
+
+##### **Research Focus**
+Rishiraj’s research focuses on developing scalable health sensing systems using everyday technologies like thermal cameras, microphones, and smartphones. In the past, he has designed non-invasive tools to monitor respiration for applications such as calorie estimation, lung health assessment, and sleep apnea detection. His work bridges ubiquitous computing, signal processing, and real-world healthcare, aiming to make health monitoring more accessible and impactful.
 <br><br>
 
 ##### **Achievements**
@@ -121,6 +125,7 @@ Rishiraj is currently a **Research Data Scientist at Reliance**. He obtained his
 - **Best poster award** in PhD Research Showcase at IIT Gandhinagar (2023).
 - **Google Summer of Code (GSoC) Participant** – Contributed to making **TensorFlow Lite** more accessible for users.
 - **Prime Minister's Research Fellowship** recipient.
+<br><br>
 
 <!--
 <p class="support-of">Research Supported By</p>

@@ -20,6 +20,7 @@ title: Publications
 
 #### **Publications**
 **2024**
+- <span style="color:#626964; text-decoration:underline;"><b>[An Automated Method to Detect Tooth Brushing Activity with Smartwatch Sensors][12]</b></span><br>Blake Schleter, Marina Avdonina, Rishiraj Adhikary, Dheryta Jaisinghani, Sougata Sen<br>Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications and Services
 - <span style="color:#626964; text-decoration:underline;"><b>[JoulesEye: Energy Expenditure Estimation and Respiration Sensing from Thermal Imagery While Exercising][11]</b></span><br>Rishiraj Adhikary,  Maite Sadeh, Nipun Batra, Mayank Goel<br>In ACM ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 
 **2023**
@@ -59,3 +60,4 @@ Visualization for AI Explainability (VISxAI'21)
 [9]:{{ site.url }}/downloads/publications/Ubicomp2022_CO2_Mask.pdf
 [10]:{{ site.url }}/downloads/publications/spiromask.pdf
 [11]:{{ site.url }}/downloads/publications/IMWUT_JoulesEye.pdf
+[12]:{{ site.url }}/downloads/publications/
