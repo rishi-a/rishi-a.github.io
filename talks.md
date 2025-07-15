@@ -36,6 +36,14 @@ title: Talks
 </div>
 <br>
 
+**3 January 2024:** 
+- Gave an invited talk on "*Sensing Respiration Rate*" at the NetHealth Workshop held during ACM/IEEE COMSNET 2024."
+<div class="talk-image">
+        <img src="/images/talks/comsnet-1.jpg" alt="COMSNET Talk 1">
+        <img src="/images/talks/comsnet-2.jpg" alt="COMSNET Talk 2">
+</div>
+<br>
+
 **9 April 2021:** 
 - Gave an expert talk on "*Mobile Computing In Health*" during GUJCOST sponsored 3-day workshop on "IoT and Wearable Technology." at [SCET](https://scet.ac.in/)
 <div class="talk-image">
