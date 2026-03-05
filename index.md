@@ -157,7 +157,7 @@ layout: page
             width: fit-content;
             margin: 5px 0 15px 0;
         }
-        .role-logo { height: 20px; width: auto; }
+        .role-logo { height: 30px; width: auto; }
         .role-text { font-size: 0.9em; font-weight: 600; color: #333; }
 
         .mission-box {
@@ -216,15 +216,13 @@ layout: page
                 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" class="linkedin-icon">
             </a>
         </div>
-        <!--
         <div class="current-role">
-            <img src="/images/work_logo.png" alt="Reliance" class="role-logo">
+            <img src="/images/work_logo.png" alt="University of Cambridge" class="role-logo">
             <span class="role-text">Research Associate @ The University of Cambridge</span>
         </div>
-        -->
         <div class="mission-box">
             <p class="mission-text">
-                I specialize in <strong>health sensing</strong>, developing systems that facilitate a paradigm shift from reactive to <strong>proactive healthcare</strong>. To achieve this, I leverage an interdisciplinary toolkit of <strong>signal processing, machine learning, and embedded systems</strong>. 
+                I am currently a Research Associate at the University of Cambridge. I specialize in <strong>health sensing</strong>, developing systems that facilitate a paradigm shift from reactive to <strong>proactive healthcare</strong>. To achieve this, I leverage an interdisciplinary toolkit of <strong>signal processing, machine learning, and embedded systems</strong>. 
                 <br><br>
                 My research has been published in premier venues such as ACM IMWUT and ACM HEALTH, and has garnered prestigious recognitions including the Fulbright-Nehru Fellowship, the Prime Minister’s Research Fellowship (PMRF), the UbiComp Gaetano Borriello Student Award, and the Commendation Medal for Outstanding Research from IIT Gandhinagar for my doctoral contributions.
             </p>
