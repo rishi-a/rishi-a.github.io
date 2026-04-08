@@ -27,6 +27,12 @@ title: Talks
 
 </style>
 
+**25 November 2025**
+- Gave a talk as part of the Computer Science Seminar at Ashoka University.
+<div class="talk-image">
+        <img src="/images/talks/ashoka-talk.jpeg" alt="Ashoka University Talk Call">
+</div>
+<br>
 
 **6 June 2025**
 - Represented Reliance Jio at ACM India Summer School to showcase JioThings products and services. <a href="https://www.youtube.com/watch?si=0dCo-lysJRFlSMLN&v=UlXkk2kuCO8&feature=youtu.be">Watch it on YouTube.</a> Also took a tutorial session on health sensing with Ayush. <a href="https://www.youtube.com/watch?v=2kbMB18UlzY">Watch the tutorial here.</a>

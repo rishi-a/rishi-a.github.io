@@ -218,11 +218,11 @@ layout: page
         </div>
         <div class="current-role">
             <img src="/images/work_logo.png" alt="University of Cambridge" class="role-logo">
-            <span class="role-text">Research Associate @ The University of Cambridge</span>
+            <span class="role-text">Research Associate</span>
         </div>
         <div class="mission-box">
             <p class="mission-text">
-                I am currently a Research Associate at the University of Cambridge. I specialize in <strong>health sensing</strong>, developing systems that facilitate a paradigm shift from reactive to <strong>proactive healthcare</strong>. To achieve this, I leverage an interdisciplinary toolkit of <strong>signal processing, machine learning, and embedded systems</strong>. 
+                I am currently a Research Associate at the <a href="https://mobile-systems.cl.cam.ac.uk/">Mobile Systems Research Lab</a> of the University of Cambridge where I work with Prof. Cecilia Mascolo. I specialize in <strong>health sensing</strong>, developing systems that facilitate a paradigm shift from reactive to <strong>proactive healthcare</strong>. To achieve this, I leverage an interdisciplinary toolkit of <strong>signal processing, machine learning, and embedded systems</strong>. 
                 <br><br>
                 My research has been published in premier venues such as ACM IMWUT and ACM HEALTH, and has garnered prestigious recognitions including the Fulbright-Nehru Fellowship, the Prime Minister’s Research Fellowship (PMRF), the UbiComp Gaetano Borriello Student Award, and the Commendation Medal for Outstanding Research from IIT Gandhinagar for my doctoral contributions.
             </p>
@@ -233,7 +233,10 @@ layout: page
     </div>
 </div>
 
-<h5 style="border-bottom: 2px solid #333; display: inline-block; padding-bottom: 5px; margin-bottom: 25px;">Core Achievements</h5>
+<h5 style="border-bottom: 2px solid #333; display: inline-block; padding-bottom: 5px; margin-bottom: 25px;">New</h5>
+<p>I am joining the ACM Mobisys <a href="https://www.sigmobile.org/mobisys/2026/organizing_committee/">organizing committee</a> as a SV Chair</p>
+
+<h5 style="border-bottom: 2px solid #333; display: inline-block; padding-bottom: 5px; margin-bottom: 25px;">Achievements</h5>
 
 <div class="achievements-grid">
     <a href="https://smashlab.io/" class="achievement-link">
