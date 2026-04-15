@@ -28,6 +28,7 @@ title: Misc
 </style>
 
 Interesting Blogs/Articles etc.
+- [Should we build AI that scales with compute, or AI that encodes human insight?](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
 - [Stop worrying about Faculty life](https://www.scientificamerican.com/blog/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)
 - [Why I gave your paper a Strong Reject](https://matt-welsh.blogspot.com/2016/04/why-i-gave-your-paper-strong-reject.html)
 - [Build an 8-bit computer from scratch](https://eater.net/8bit/clock)
